@@ -97,7 +97,7 @@ Conventional treatment fails. Nanotechnology offers hope — but only if we can 
 ## Contact
 
 - **Zenodo:** [doi.org/10.5281/zenodo.20771300](https://doi.org/10.5281/zenodo.20771300)
-- **GitHub:**
+- GitHub:
 - https://github.com/HadiaArshad00
 
 ---
